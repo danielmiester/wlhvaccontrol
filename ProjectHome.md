@@ -1,0 +1,2 @@
+The goal of this project is to create a HVAC control system that can be easily retrofitted into an existing system to provide centralized control of heating and cooling systems.
+This project will provide modules that can be retrofitted in place of existing 120/240v and 24v thermostats. communications will be provided by XBee modules
